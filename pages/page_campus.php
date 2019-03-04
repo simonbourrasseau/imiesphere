@@ -72,7 +72,6 @@ else
     <li id="nav-dev"><a href="page_dev.php">DEV</a></li>
     <li id="nav-ops"><a href="page_ops.php">OPS</a></li>
     <li id="nav-digi"><a href="page_digi.php">DIGI</a></li>
-    <li id="nav-staff"><a href="page_staff.php">staff</a></li>
     <li id="nav-contact"><a href="page_contact.php">Contact</a></li>
 </ul>
 </div>
