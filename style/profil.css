@@ -1,0 +1,36 @@
+@media screen and (max-width: 1025px){
+#recup_profil{
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -5%;
+}
+}
+
+@media screen and (min-width: 1025px){
+    #recup_profil{
+        position: absolute;
+        margin-left: 36%;
+        margin-top: -15%;
+    }
+    }
+
+@media screen and (max-width: 1025px){
+#button_modif{
+    position: absolute;
+    margin-left: 30%;
+    margin-top: -14%; 
+}
+}
+@media screen and (min-width: 1025px){
+    #button_modif{
+        position: absolute;
+        margin-left: 55%;
+        margin-top: -14%; 
+    }
+    }
+#modif_profil{
+    width: 50%;
+    position: absolute;
+    margin-left: 20%;
+    margin-top: -14%;
+}

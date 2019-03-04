@@ -1,0 +1,17 @@
+div#article{
+    text-align: center;
+    background-color: #AC1513;
+    color: white;
+    padding: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 50%;
+    position: absolute;
+    margin-left: 15%;
+
+}
+
+div#separation_article{
+    padding-bottom: 50%;
+}
+

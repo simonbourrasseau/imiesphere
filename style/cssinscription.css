@@ -1,0 +1,77 @@
+#retour{
+margin-left:24.6%;
+position: absolute;
+top: 10%;
+}
+
+
+button {
+    background-color: #960018;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+#logoIMIE{
+	width: 12%;
+	height: auto;
+	position: absolute;
+	top: 1%;
+	left: 2%;
+}
+
+@media screen and (max-width: 900px){
+#cadre{
+ position: relative;
+ margin-left: 5%;
+ margin-right: 5%;
+ margin-top: 25%;
+ padding: 10px;
+ background: #303030;
+ border: 3px solid black;
+ box-shadow: 8px 8px 6px grey;
+}
+}
+
+@media screen and (min-width: 900px){
+	#cadre{
+	 position: relative;
+	 margin-left: 5%;
+	 margin-right: 5%;
+	 margin-top: 10%;
+	 padding: 10px;
+	 background: #303030;
+	 border: 3px solid black;
+	 box-shadow: 8px 8px 6px grey;
+	}
+	}
+
+@media screen and (min-width: 900px){
+.txt{
+	color: #FFFFFF;
+	position: relative;
+	left: 15%;
+	margin-top: 30%;
+	word-wrap: break-word;
+	}
+	}
+
+@media screen and (max-width: 900px){
+.txt{
+	color: #FFFFFF;
+	position: relative;
+	overflow: auto;
+	left: 5%;
+	margin-top: 30%;
+	word-wrap: break-word;
+	}
+}
+
+#ck{
+text-align: justify;
+color: #FFFFFF;
+}
